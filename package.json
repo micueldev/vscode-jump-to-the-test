@@ -2,8 +2,9 @@
   "name": "jump-to-the-test",
   "displayName": "Jump to the Test",
   "description": "Open spec/test file based on current file name or back again",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "micueldev",
+  "icon": "images/jump-to-the-test.png",
   "engines": {
     "vscode": "^1.85.0"
   },

@@ -1,6 +1,6 @@
 # Jump to the Test
 <p align="center">
-<a href="http://" target="blank"><img src="./src/images/jump-to-the-test.png" width="150" alt="Jump to the Test Logo" /></a>
+<a href="https://github.com/micueldev/vscode-jump-to-the-test" target="blank"><img src="./images/jump-to-the-test.png" width="150" alt="Jump to the Test Logo" /></a>
 </p>
 
 ## About the Extension
@@ -14,11 +14,11 @@ On Windows / Linux, press `Ctrl+Alt+T`.
 
 When the command is executed, your editor will jump to your test file..
 
-![My Image](src/images/jump-to-the-test.gif)
+![My Image](./images/jump-to-the-test.gif)
 
 If you cannot find your respective test file, then there will be an error message in the status bar.
 
-![My Image](src/images/not-found.png)
+![My Image](./images/not-found.png)
 
 The extension should successfully take you between files named in the following patterns (including Vue files), regardless of the extensions:
 
