@@ -48,5 +48,9 @@
     "eslint": "^8.56.0",
     "sinon": "^17.0.1",
     "typescript": "^5.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micueldev/vscode-jump-to-the-test.git"
   }
 }
